@@ -1,0 +1,26 @@
+{
+  "name": "barber-shop",
+  "version": "1.0.0",
+  "description": "Simple Barber Shop Webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superGemHere/barber-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superGemHere/barber-shop/issues"
+  },
+  "homepage": "https://github.com/superGemHere/barber-shop#readme",
+  "dependencies": {
+    "lit-html": "^2.8.0",
+    "lite-server": "^2.6.1",
+    "page": "^1.11.6"
+  }
+}
