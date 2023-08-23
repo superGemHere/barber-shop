@@ -6,6 +6,6 @@ import { showNav } from "./middlewares/navigation.js";
 page(showNav);
 
 
-// page('/', showHome);
+// page('/', showHome);x
 
 page.start();
